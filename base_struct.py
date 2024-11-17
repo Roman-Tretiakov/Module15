@@ -14,4 +14,4 @@ print(a == b)
 s = '123.456'
 d = int(float(s) * 10)
 result = d % 10
-print(result)
+print('Первый после точки:', result)
